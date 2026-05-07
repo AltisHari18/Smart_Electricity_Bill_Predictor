@@ -1,0 +1,6 @@
+Library:
+streamlit
+pandas
+numpy
+scikit-learn
+openpyxl
