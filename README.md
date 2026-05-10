@@ -2,6 +2,8 @@
 
 An AI-powered web application that predicts monthly electricity bills using Machine Learning and Random Forest Regression.
 
+LIVE link: https://huggingface.co/spaces/altis123/smart-electricity-bill-predictor
+
 ---
 
 # 📌 Project Overview
